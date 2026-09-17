@@ -59,7 +59,9 @@ export default function Service() {
                             <span className="service-title">{service.title}</span>
                             <span className="service-description">{service.description}</span>
                             <span className="service-detail">{service.detail}</span>
-                            <span className="service-action">Explore service <span aria-hidden="true">→</span></span>
+                            <a className="service-action" href="#contact">
+                Explore service <span aria-hidden="true">→</span>
+              </a>
                         </button>
                     )
                 })}
