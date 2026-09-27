@@ -13,7 +13,7 @@ export default function About() {
 
       <aside className="about-details">
         <p>
-          <strong>Currently exploring:</strong>
+          <strong>Focus areas:</strong>
           <br />
           Creative Development · WebGL · 3D · Motion · Interactive Design
         </p>
